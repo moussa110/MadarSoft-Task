@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MadarSoft</string>
+    <string name="welcome">مرحـــبا</string>
+    <string name="enter_your_data_to_start_the_journey">قم بادخال بيناتك لكي نبدأ</string>
+    <string name="username">اسم المستخدم</string>
+    <string name="job_title">عنوان الوظيفة</string>
+    <string name="gender">الجنس</string>
+    <string name="age">العمر</string>
+    <string name="save">حفــظ</string>
+    <string name="show_users">اعرض المستخدمين</string>
+    <string name="data_saved">تم حفظ البيانت بنجاح ..</string>
+    <string name="input_required">حقل مطلوب</string>
+
+    <array name="gender_list">
+        <item>ذكـر</item>
+        <item>انثي</item>
+    </array>
+
+</resources>
